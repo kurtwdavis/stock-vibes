@@ -6,4 +6,4 @@
 
 4. calculations of data with analysis
 
-5.front end grabbing from database
+5. front end grabbing from database
