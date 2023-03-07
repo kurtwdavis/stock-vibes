@@ -1,0 +1,9 @@
+1. data getter functions
+
+2. data cleaning
+
+3. database tossing
+
+4. calculations of data with analysis
+
+5.front end grabbing from database
